@@ -11,12 +11,3 @@ I am excited to explore the world of version control and collaboration using Git
 - **Open Source Contributions**: Eventually contributing to open-source projects to learn from others and give back to the community.
 
 ## Contact Me
-
-You can find me on GitHub at [UrielAlv08](https://github.com/UrielAlv08). Feel free to connect!
-You can find me on GitHub at [UrielAlv08](https://github.com/UrielAlv08). Feel free to connect!
-You can find me on GitHub at [UrielAlv08](https://github.com/UrielAlv08). Feel free to connect!
-You can find me on GitHub at [UrielAlv08](https://github.com/UrielAlv08). Feel free to connect!
-You can find me on GitHub at [UrielAlv08](https://github.com/UrielAlv08). Feel free to connect!
-You can find me on GitHub at [UrielAlv08](https://github.com/UrielAlv08). Feel free to connect!
-You can find me on GitHub at [UrielAlv08](https://github.com/UrielAlv08). Feel free to connect!
-You can find me on GitHub at [UrielAlv08](https://github.com/UrielAlv08). Feel free to connect!
