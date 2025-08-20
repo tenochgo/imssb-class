@@ -4,7 +4,6 @@ En Python, puedes iterar sobre los elementos de una colección (como una lista, 
 
 **Sintaxis básica:**
 
+Hola desde el bello puerto de Progreso Yucatan!
 
-Hola desde github, yo soy el primer cambio
-
-
+si estaba bien el anterior
