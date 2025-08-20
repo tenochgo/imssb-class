@@ -5,4 +5,4 @@ En Python, puedes iterar sobre los elementos de una colección (como una lista, 
 **Sintaxis básica:**
 
 
-Hola desde local
+Hola desde el bello puerto de Progreso Yucatan!
